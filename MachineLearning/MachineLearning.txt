@@ -1,8 +1,0 @@
-1. Inputs X arrive through the preconnected path
-2. The input is modeled using true weights W, weights are usually chosen randomly
-3. Calculate the output of each neuron from the input layer to the hidden layer to the output layer
-4. Calculate the error in the outputs
-    Error = Actual Output - Desired Output
-
-5. From the output layer, go back to the hidden layer to adjust the weights to reduce the error.
-6. Repeat the process until the desired output is achieved.
